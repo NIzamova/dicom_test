@@ -1,4 +1,7 @@
 from time import time
+from plotly.offline import download_plotlyjs, init_notebook_mode, iplot
+from plotly.graph_objs import *
+init_notebook_mode()
 from IPython.display import Image
 __author__ = 'N'
 import dicom
@@ -8,9 +11,7 @@ import vtk
 import matplotlib
 from vtk.util import numpy_support
 from matplotlib import pyplot
-import plotly
-from plotly.graph_objs import *
-import plotly.graph_objs as go
+
 #plotly.plotly.sign_in("somada141", "1t2qb5b9y1")
 
 
@@ -24,19 +25,20 @@ def vtkImageToNumPy(image, pixelDims):
 
 def plotHeatmap(array, name="plot"):
     data = [
-        go.Heatmap(
+        graph_objs.Heatmap(
             z=array,
             colorscale='Greys'
         )
     ]
-    layout = go.Layout(
+    layout = graph_objs.Layout(
         autosize=False,
         title=name
     )
-    fig = go.Figure(data=data, layout=layout)
+    fig = dict(data=data, layout=layout)
 
-    plotly.plotly.image.save_as(fig, filename='test_name.png')
-    return plotly.plotly.iplot(fig, filename='test_name')
+
+ #   plotly.plotly.image.save_as(fig, filename='test_name.png')
+    return iplot(fig)
 
 import vtk
 from IPython.display import Image
@@ -115,7 +117,7 @@ camera.SetRoll(-90.0)
 renderer.SetActiveCamera(camera)
 
 vtk_show(renderer, 600, 600)
-from IPython.display import Image
-Image('test_name.pmg')
+#from IPython.display import Image
+#Image('test_name.pmg')
 
 
