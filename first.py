@@ -1,8 +1,11 @@
 from time import time
 
 #from plotly.js import Heatmap as Heatmap
+from IPython.core.display import display
 from plotly.offline import download_plotlyjs, init_notebook_mode, iplot
 from plotly.graph_objs import *
+import plotly
+
 init_notebook_mode()
 from IPython.display import Image
 __author__ = 'N'
@@ -14,7 +17,7 @@ import matplotlib
 from vtk.util import numpy_support
 from matplotlib import pyplot
 
-#plotly.plotly.sign_in("somada141", "1t2qb5b9y1")
+plotly.plotly.sign_in("liliya", "4m3yij5fes") #"liliya_liliya")
 
 
 def vtkImageToNumPy(image, pixelDims):
@@ -118,7 +121,8 @@ camera.SetViewAngle(30.0)
 camera.SetRoll(-90.0)
 renderer.SetActiveCamera(camera)
 
-vtk_show(renderer, 600, 600)
+display(vtk_show(renderer, 600, 600))
+pyplot.show()
 #from IPython.display import Image
 #Image('test_name.pmg')
 
