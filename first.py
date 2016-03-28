@@ -1,4 +1,6 @@
 from time import time
+
+#from plotly.js import Heatmap as Heatmap
 from plotly.offline import download_plotlyjs, init_notebook_mode, iplot
 from plotly.graph_objs import *
 init_notebook_mode()
@@ -25,7 +27,7 @@ def vtkImageToNumPy(image, pixelDims):
 
 def plotHeatmap(array, name="plot"):
     data = [
-        graph_objs.Heatmap(
+       graph_objs.Heatmap(
             z=array,
             colorscale='Greys'
         )
