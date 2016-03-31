@@ -17,7 +17,10 @@ import matplotlib
 from vtk.util import numpy_support
 from matplotlib import pyplot
 
-plotly.plotly.sign_in("liliya", "4m3yij5fes") #"liliya_liliya")
+import numpy
+from stl import mesh
+
+#plotly.plotly.sign_in("liliya", "4m3yij5fes") #"liliya_liliya")
 
 
 def vtkImageToNumPy(image, pixelDims):
@@ -95,35 +98,40 @@ threshold.SetOutValue(1)  # set all values above 400 to 1
 threshold.Update()
 
 ArrayDicom = vtkImageToNumPy(threshold.GetOutput(), ConstPixelDims)
-plotHeatmap(numpy.rot90(ArrayDicom[:, 256, :]), name="CT_Thresholded")
+plotHeatmap(numpy.rot90(ArrayDicom[:, :, 0]), name="CT_Thresholded")
 
-print(time())
+# print(time())
 dmc = vtk.vtkDiscreteMarchingCubes()
 dmc.SetInputConnection(threshold.GetOutputPort())
 dmc.GenerateValues(1, 1, 1)
 dmc.Update()
-
-
-mapper = vtk.vtkPolyDataMapper()
-mapper.SetInputConnection(dmc.GetOutputPort())
-
-actor = vtk.vtkActor()
-actor.SetMapper(mapper)
-
-renderer = vtk.vtkRenderer()
-renderer.AddActor(actor)
-renderer.SetBackground(1.0, 1.0, 1.0)
-
-camera = renderer.MakeCamera()
-camera.SetPosition(-500.0, 245.5, 122.0)
-camera.SetFocalPoint(301.0, 245.5, 122.0)
-camera.SetViewAngle(30.0)
-camera.SetRoll(-90.0)
-renderer.SetActiveCamera(camera)
-
-display(vtk_show(renderer, 600, 600))
-pyplot.show()
+#
+#
+# mapper = vtk.vtkPolyDataMapper()
+# mapper.SetInputConnection(dmc.GetOutputPort())
+#
+# actor = vtk.vtkActor()
+# actor.SetMapper(mapper)
+#
+# renderer = vtk.vtkRenderer()
+# renderer.AddActor(actor)
+# renderer.SetBackground(1.0, 1.0, 1.0)
+#
+# camera = renderer.MakeCamera()
+# camera.SetPosition(-500.0, 245.5, 122.0)
+# camera.SetFocalPoint(301.0, 245.5, 122.0)
+# camera.SetViewAngle(30.0)
+# camera.SetRoll(-90.0)
+# renderer.SetActiveCamera(camera)
+#
+# display(vtk_show(renderer, 600, 600))
+# pyplot.show()
 #from IPython.display import Image
 #Image('test_name.pmg')
 
+writer = vtk.vtkSTLWriter()
+writer.SetInputConnection(dmc.GetOutputPort())
+writer.SetFileTypeToBinary()
+writer.SetFileName("bones.stl")
+writer.Write()
 
