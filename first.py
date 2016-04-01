@@ -73,7 +73,7 @@ def vtk_show(renderer, width=400, height=300):
     return Image(data)
 
 
-PathDicom = "./test/"
+PathDicom = "./lite/"
 reader = vtk.vtkDICOMImageReader()
 reader.SetDirectoryName(PathDicom)
 reader.Update()
@@ -105,6 +105,9 @@ dmc = vtk.vtkDiscreteMarchingCubes()
 dmc.SetInputConnection(threshold.GetOutputPort())
 dmc.GenerateValues(1, 1, 1)
 dmc.Update()
+
+
+print(ArrayDicom)
 #
 #
 # mapper = vtk.vtkPolyDataMapper()
@@ -128,10 +131,10 @@ dmc.Update()
 # pyplot.show()
 #from IPython.display import Image
 #Image('test_name.pmg')
-
-writer = vtk.vtkSTLWriter()
-writer.SetInputConnection(dmc.GetOutputPort())
-writer.SetFileTypeToBinary()
-writer.SetFileName("bones.stl")
-writer.Write()
+#
+# writer = vtk.vtkSTLWriter()
+# writer.SetInputConnection(dmc.GetOutputPort())
+# writer.SetFileTypeToBinary()
+# writer.SetFileName("lite_bones.stl")
+# writer.Write()
 

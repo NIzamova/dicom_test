@@ -2,7 +2,7 @@ __author__ = 'N'
 import numpy, dicom, os
 import pylab
 from matplotlib import pyplot, cm
-PathDicom = "./test/"
+PathDicom = "./lite/"
 lstFilesDCM = []  # create an empty list
 for dirName, subdirList, fileList in os.walk(PathDicom):
     for filename in fileList:
@@ -32,9 +32,12 @@ for filenameDCM in lstFilesDCM:
 pyplot.axes().set_aspect('equal', 'datalim')
 pyplot.set_cmap(pyplot.gray())
 pyplot.pcolormesh(x, y, numpy.flipud(ArrayDicom[:, :, 0]))
-#print(ArrayDicom)
+
+
+
+
+pyplot.show()
 openfile = open('LOOKHERE.txt', 'w')
 for item in ArrayDicom:
     openfile.write(str(item) + "\n")
 openfile.close()
-pyplot.show()

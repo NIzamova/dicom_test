@@ -2,10 +2,1415 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90a3885-b355-46d1-9369-f66db81364cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/third.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bones.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jupyter.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.ackrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.agignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/build/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/build/plotcss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/build/ploticon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/circle.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/image_viewer/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/image_viewer/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/image_viewer/viewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/server.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/test_cartesian.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/test_geo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/test_gl2d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/devtools/test_dashboard/test_gl3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/MathJax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/config/TeX-AMS-MML_SVG.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/FontWarnings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/HTML-CSS/handle-floats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/HelpDialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/MatchWebFonts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/MathEvents.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/MathML/content-mathml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/MathMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/MathZoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/Safe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/AMScd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/AMSmath.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/AMSsymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/HTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/action.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/autobold.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/autoload-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/bbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/begingroup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/boldsymbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/cancel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/enclose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/extpfeil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/mathchoice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/mhchem.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/newcommand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/noErrors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/noUndefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/unicode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/TeX/verb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/asciimath2jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/jsMath2jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/mml2jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/tex2jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/extensions/toMathML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/images/CloseX-31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/images/MenuArrow-15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/Arrows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/CombDiactForSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/Dingbats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/GeneralPunctuation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/GeometricShapes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/GreekAndCoptic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/Latin1Supplement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/LetterlikeSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/MathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/MiscMathSymbolsA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/MiscMathSymbolsB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/MiscSymbolsAndArrows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/MiscTechnical.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/SpacingModLetters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/SuppMathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/SupplementalArrowsA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/element/mml/optable/SupplementalArrowsB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/AsciiMath/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/AsciiMath/jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/a.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/c.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/e.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/f.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/g.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/h.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/i.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/j.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/k.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/l.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/m.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/n.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/o.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/opf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/p.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/q.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/r.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/s.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/scr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/t.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/u.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/v.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/w.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/x.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/entities/z.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/MathML/jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/TeX/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/input/TeX/jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/annotation-xml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/maction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/menclose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/mglyph.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/mmultiscripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/mtable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/autoload/multiline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Alphabets/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Arrows/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/DoubleStruck/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Latin/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Marks/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Misc/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Monospace/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/NonUnicode/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Normal/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Operators/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/SansSerif/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Shapes/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Size5/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Size6/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Symbols/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/Variants/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Asana-Math/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Alphabets/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Arrows/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/DoubleStruck/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Latin/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Marks/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Misc/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Monospace/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/NonUnicode/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Normal/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Operators/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/SansSerif/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Shapes/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Size5/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Size6/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Symbols/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/Variants/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Pagella/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Alphabets/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Arrows/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/DoubleStruck/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Latin/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Marks/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Misc/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Monospace/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/NonUnicode/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Normal/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Operators/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/SansSerif/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Shapes/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Size5/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Size6/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Symbols/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/Variants/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Gyre-Termes/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Alphabets/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Arrows/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/DoubleStruck/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Latin/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Marks/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Misc/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Monospace/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/NonUnicode/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Normal/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Operators/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/SansSerif/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Shapes/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size5/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size6/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Size7/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Symbols/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/Variants/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Latin-Modern/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Alphabets/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Arrows/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Marks/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/NonUnicode/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Normal/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Operators/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Shapes/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Size5/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Symbols/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/Variants/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/Neo-Euler/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Alphabets/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Alphabets/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Alphabets/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Alphabets/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Arrows/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Arrows/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/DoubleStruck/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/DoubleStruck/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/DoubleStruck/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/DoubleStruck/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Fraktur/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Latin/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Latin/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Latin/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Latin/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Main/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Main/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Main/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Marks/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Marks/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Marks/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Marks/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Misc/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Misc/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Misc/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Misc/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Monospace/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Normal/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Normal/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Normal/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Operators/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Operators/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/SansSerif/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/SansSerif/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/SansSerif/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/SansSerif/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Script/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Script/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Shapes/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Shapes/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Shapes/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Size5/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Symbols/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Symbols/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Variants/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Variants/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Variants/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/Variants/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/STIX-Web/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/Arrows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/BoxDrawing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/Dingbats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/EnclosedAlphanum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/GeneralPunctuation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/GeometricShapes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/GreekAndCoptic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/Latin1Supplement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/LatinExtendedA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/LetterlikeSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/MathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/MiscMathSymbolsB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/MiscSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/MiscTechnical.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/PUA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/SpacingModLetters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/AMS/Regular/SuppMathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Caligraphic/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Caligraphic/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Bold/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Bold/Other.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Bold/PUA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Regular/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Regular/Other.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Fraktur/Regular/PUA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/Arrows.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/CombDiactForSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/GeneralPunctuation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/GeometricShapes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/GreekAndCoptic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/Latin1Supplement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/LatinExtendedA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/LatinExtendedB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/LetterlikeSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/MathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/MiscMathSymbolsA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/MiscSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/MiscTechnical.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/SpacingModLetters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/SuppMathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Bold/SupplementalArrowsA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/GeneralPunctuation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/GreekAndCoptic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/LatinExtendedA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/LatinExtendedB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/LetterlikeSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Italic/MathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/GeometricShapes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/GreekAndCoptic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/LatinExtendedA.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/LatinExtendedB.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/LetterlikeSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/MathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/MiscSymbols.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/SpacingModLetters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Main/Regular/SuppMathOperators.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Math/BoldItalic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Math/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Bold/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Bold/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Bold/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Bold/Other.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Italic/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Italic/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Italic/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Italic/Other.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Regular/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Regular/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/SansSerif/Regular/Other.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Script/Regular/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Script/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Size1/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Size2/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Size3/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Size4/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Typewriter/Regular/BasicLatin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Typewriter/Regular/CombDiacritMarks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Typewriter/Regular/Main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/Typewriter/Regular/Other.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/fontdata-extra.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/fonts/TeX/fontdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/jax/output/SVG/jax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/FontWarnings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/HTML-CSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/HelpDialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/MathML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/MathMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/TeX.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/de/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/FontWarnings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/HTML-CSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/HelpDialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/MathML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/MathMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/TeX.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/en/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/FontWarnings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/HTML-CSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/HelpDialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/MathML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/MathMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/TeX.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/mathjax/localization/fr/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/extras/typedarray.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/plotly-geo-assets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/plotly-with-meta.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/plotly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/plotly.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/africa_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/africa_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/asia_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/asia_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/europe_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/europe_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/north-america_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/north-america_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/south-america_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/south-america_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/usa_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/usa_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/world_110m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/dist/topojson/world_50m.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/docker-compose.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/choropleth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/contour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/heatmap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/histogram.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/histogram2d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/histogram2dcontour.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/mesh3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/scatter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/scatter3d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/scattergeo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/scattergl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/lib/surface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/assets/geo_assets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/annotations/arrow_paths.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/annotations/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/annotations/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/color/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/color/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorbar/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorbar/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorbar/draw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorbar/has_colorbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorbar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/default_scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/flip_scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/get_scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/has_colorscale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/is_valid_scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/is_valid_scale_array.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/make_scale_function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/colorscale/scales.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/drawing/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/drawing/symbol_defs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/compute_error.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/errorbars/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/anchor_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/draw.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/get_legend_data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/legend/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/modebar/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/modebar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/modebar/manage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/shapes/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/shapes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/components/titles/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/constants/country-name_to_iso3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/constants/geo_constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/constants/gl2d_dashes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/constants/gl3d_dashes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/constants/gl_markers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/constants/xmlns_namespaces.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_cursor.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_drag.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_modebar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_notifier.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/css/style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/mathjax_config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/ploticon/_ploticon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/ploticon/config.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/ploticon/ploticon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/ploticon/ploticon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/ploticon/ploticon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/fonts/ploticon/ploticon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/array_to_calc_item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/coerce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/dates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/geo_location_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/gl_format_color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/html2unicode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/is_plain_object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/matrix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/nested_property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/notifier.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/polygon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/show_no_webgl_msg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/str2rgbarray.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/svg_text_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/lib/topojson_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plot_api/plot_api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plot_api/plot_config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plot_api/plot_schema.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plot_api/set_plot_config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plotly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/axes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/axis_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/axis_ids.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/clean_datum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/graph_interact.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/layout_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/position_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/set_convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/tick_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/cartesian/tick_value_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/font_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/geo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/layout/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/layout/axis_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/layout/axis_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/layout/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/layout/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/projections.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/set_scale.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/zoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/geo/zoom_reset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl2d/camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl2d/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl2d/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl2d/scene2d.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/camera.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/axis_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/axis_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/spikes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/layout/tick_marks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/project.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/scene.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/gl3d/set_convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/plots.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/polar/area_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/polar/axis_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/polar/micropolar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/polar/micropolar_manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/plots/polar/undo_manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/snapshot/cloneplot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/snapshot/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/snapshot/svgtoimg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/snapshot/toimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/snapshot/tosvg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/arrays_to_calcdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/layout_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/set_positions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/bar/style_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/layout_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/set_positions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/box/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/choropleth/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/choropleth/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/choropleth/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/choropleth/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/choropleth/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/colorbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/contour/style_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/colorbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/convert_column_xyz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/has_columns.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/max_row_length.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/heatmap/xyz_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/average.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/bin_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/bin_functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram/norm_functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2d/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2d/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2d/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2d/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2d/sample_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2dcontour/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2dcontour/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/histogram2dcontour/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/mesh3d/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/mesh3d/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/mesh3d/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/mesh3d/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/layout_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/layout_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/pie/style_one.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/arrays_to_calcdata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/clean_data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/colorbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/fillcolor_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/get_trace_color.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/hover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/line_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/line_points.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/make_bubble_size_func.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/marker_colorscale_calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/marker_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/select.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/style.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/subtypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/text_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter/xy_defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter3d/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter3d/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter3d/calc_errors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter3d/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter3d/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scatter3d/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergeo/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergeo/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergeo/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergeo/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergeo/plot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergl/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergl/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergl/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/scattergl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/surface/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/surface/calc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/surface/colorbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/surface/convert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/surface/defaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/src/traces/surface/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/baseline.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/cibundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/preprocess.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/test_bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/test_export.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/test_image.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/compress_attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/constants.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/format_bundle_msg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/get_image_request_options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/make_watchified_bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/pull_css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/pull_font_svg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/shortcut_paths.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/util/update_version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/tasks/watch_plotly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/2dhistogram_contour_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Blackbody_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Bluered_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Earth_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Electric_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Greens_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Greys_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Hot_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Jet_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Picnic_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Portland_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/RdBu_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/Viridis_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/YIGnBu_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/YIOrRd_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/annotations-autorange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/annotations.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/autorange-tozero-rangemode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes-autotype-empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes-ticks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_booleans.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_category_null.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_enumerated_ticks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_free_default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_labels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_lines.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_range_manual.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_range_mode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_range_type.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/axes_reversed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar-colorscale-colorbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar-marker-line-colorscales.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar_group_percent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar_marker_array.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar_stackto1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bar_stackto100_negative.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/basic-figure-to-image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/basic_area.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/basic_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/basic_error_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/basic_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/basic_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/benchmarks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/box_grouped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/box_grouped_horz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/box_plot_jitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/box_with-empty-1st-trace.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/boxplots_outlierColorDflt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/boxplots_undefined_vals.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bubble_markersize0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bubble_nonnumeric-sizes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/bubblechart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/category_dtick_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/chinese.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/colorbar_enumerated_ticks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/colorbar_tick_prefix_suffix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/colorbar_tickformat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/connectgaps_2d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_match_edges.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_nolines.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_scatter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_transposed-irregular.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_transposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_valid_ses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/contour_xyz-gaps-on-sides.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/custom_colorscale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/custom_size_subplot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/date_axes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/date_histogram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/empty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_asymmetric_array.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_asymmetric_constant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_horizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_layers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_sqrt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/error_bar_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/font-wishlist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/fonts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_africa-insets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_bg-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_big-frame.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_bubbles-colorscales.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_bubbles-sizeref.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_canadian-cites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_choropleth-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_choropleth-usa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_conic-conformal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_country-names-text-chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_country-names.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_custom-colorscale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_europe-bubbles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_first.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_kavrayskiy7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_legendonly.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_multi-geos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_multiple-usa-choropleths.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_orthographic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_scattergeo-locations.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_second.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_stereographic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_text_chart_arrays.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/geo_usa-states.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_axes_booleans.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_axes_labels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_axes_lines.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_axes_range_manual.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_axes_range_mode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_axes_range_type.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_basic_error_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_bubble_markersize0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_bubble_nonnumeric-sizes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_date_axes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_error_bar_asymmetric_array.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_error_bar_asymmetric_constant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_error_bar_horizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_error_bar_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_fonts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_global_font.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_legend_inside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_legend_labels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_legend_outside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_legend_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_line_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_multiple_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_scatter-colorscale-colorbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_scatter-marker-line-colorscales.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_show_legend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_simple_inset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_size_margins.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_stacked_coupled_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl2d_stacked_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_autocolorscale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_autorange-zero.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_bunny-hull.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_bunny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_chrisp-nan-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_contour-lines.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_convex-hull.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_cufflinks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_delaunay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_errorbars_sqrt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_errorbars_zx.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_errorbars_zy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_ibm-plot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_log-axis-big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_log-axis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_marker-arrays.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_marker-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_mirror-ticks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_multi-scene.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_nan-holes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_opacity-scaling-spikes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_opacity-surface.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_projection-traces.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_ribbons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_scatter-date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_scatter3d-colorscale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_snowden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_surface-lighting.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_surface_intensity.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_tet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_text-weirdness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_wire-surface.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_xy-defined-ticks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/gl3d_z-range.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/global_font.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/grouped_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/heatmap-reverse-autocolorscale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/heatmap_autocolor_negative.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/heatmap_autocolor_positive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/heatmap_xyz-dates-and-categories.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/heatmap_xyz-gaps-on-sides.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist2d_summed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_003_to_093.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_003_to_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_0_to_093.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_0_to_1_midpoints.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_all_integer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_all_integer_n50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_almost_integer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_category.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_grouped.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_stacked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_summed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_valid_ses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/hist_valid_ses_y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/japanese.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/labelled_heatmap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legend_inside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legend_labels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legend_outside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legend_scroll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legend_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legend_visibility.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legendgroup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/legendgroup_bar-stack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/line_grid_color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/line_grid_width.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/line_scatter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/line_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/multiple_axes_double.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/multiple_axes_multiple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/multiple_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/percent_error_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_fonts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_label0_dlabel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_labels_colors_text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_scale_textpos_hideslices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_simple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_sort_direction.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_style.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pie_style_arrays.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/plot_types.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/polar_area_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/polar_line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/polar_scatter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/pseudo_html.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/scatter-colorscale-colorbar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/scatter-marker-line-colorscales.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/scatter_fill_no_opacity.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/shapes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/shared_axes_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/show_legend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/simple-3d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/simple_annotation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/simple_contour.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/simple_inset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/simple_subplot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/size_margins.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/stacked_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/stacked_coupled_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/stacked_subplots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/stacked_subplots_shared_yaxis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/style_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/styling_names.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/text_chart_arrays.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/text_chart_basic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/text_chart_invalid-arrays.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/text_chart_single-string.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/text_chart_styling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/text_export.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/tick_attributes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/tick_prefix_suffix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/tick_prefix_suffix_exponent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/tickformat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/baselines/titles-avoid-labels.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/compare_pixels_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/export_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/make_baseline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/19.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/21.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/25.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/29.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/2dhistogram_contour_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/5.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/8.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Blackbody_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Bluered_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Earth_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Electric_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Greens_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Greys_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Hot_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Jet_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Picnic_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Portland_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/RdBu_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/Viridis_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/YIGnBu_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/YIOrRd_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/annotations-autorange.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/annotations.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/autorange-tozero-rangemode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes-autotype-empty.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes-ticks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_booleans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_category_null.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_enumerated_ticks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_free_default.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_labels.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_lines.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_range_manual.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_range_mode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_range_type.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/axes_reversed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar-colorscale-colorbar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar-marker-line-colorscales.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar_group_percent.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar_line.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar_marker_array.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar_stackto1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bar_stackto100_negative.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/basic_area.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/basic_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/basic_error_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/basic_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/basic_line.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/benchmarks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/box_grouped.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/box_grouped_horz.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/box_plot_jitter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/box_with-empty-1st-trace.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/boxplots_outlierColorDflt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/boxplots_undefined_vals.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bubble_markersize0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bubble_nonnumeric-sizes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/bubblechart.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/category_dtick_3.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/colorbar_enumerated_ticks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/colorbar_tick_prefix_suffix.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/colorbar_tickformat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/connectgaps_2d.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_match_edges.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_nolines.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_scatter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_transposed-irregular.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_transposed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_valid_ses.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/contour_xyz-gaps-on-sides.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/custom_colorscale.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/custom_size_subplot.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/date_axes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/date_histogram.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/empty.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_asymmetric_array.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_asymmetric_constant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_horizontal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_layers.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_sqrt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/error_bar_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/font-wishlist.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/fonts.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_africa-insets.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_bg-color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_big-frame.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_bubbles-colorscales.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_bubbles-sizeref.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_canadian-cites.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_choropleth-text.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_choropleth-usa.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_conic-conformal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_country-names-text-chart.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_country-names.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_custom-colorscale.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_europe-bubbles.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_first.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_kavrayskiy7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_legendonly.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_multi-geos.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_multiple-usa-choropleths.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_orthographic.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_scattergeo-locations.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_second.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_stereographic.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_text_chart_arrays.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/geo_usa-states.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_12.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_22.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_30.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_axes_booleans.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_axes_labels.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_axes_lines.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_axes_range_manual.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_axes_range_mode.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_axes_range_type.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_basic_error_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_bubble_markersize0.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_bubble_nonnumeric-sizes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_date_axes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_error_bar_asymmetric_array.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_error_bar_asymmetric_constant.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_error_bar_horizontal.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_error_bar_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_fonts.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_global_font.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_legend_inside.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_legend_labels.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_legend_outside.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_legend_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_line_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_multiple_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_scatter-colorscale-colorbar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_scatter-marker-line-colorscales.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_show_legend.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_simple_inset.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_size_margins.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_stacked_coupled_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl2d_stacked_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_autocolorscale.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_autorange-zero.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_bunny-hull.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_bunny.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_chrisp-nan-1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_contour-lines.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_convex-hull.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_cufflinks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_delaunay.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_errorbars_sqrt.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_errorbars_zx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_errorbars_zy.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_ibm-plot.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_log-axis-big.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_log-axis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_marker-arrays.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_marker-color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_mirror-ticks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_multi-scene.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_nan-holes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_opacity-scaling-spikes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_opacity-surface.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_projection-traces.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_ribbons.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_scatter-date.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_scatter3d-colorscale.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_snowden.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_surface-lighting.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_surface_intensity.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_tet.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_text-weirdness.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_triangle.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_wire-surface.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_xy-defined-ticks.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/gl3d_z-range.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/global_font.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/grouped_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/heatmap-reverse-autocolorscale.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/heatmap_autocolor_negative.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/heatmap_autocolor_positive.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/heatmap_xyz-dates-and-categories.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/heatmap_xyz-gaps-on-sides.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist2d_summed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_003_to_093.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_003_to_1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_0_to_093.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_0_to_1_midpoints.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_all_integer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_all_integer_n50.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_almost_integer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_category.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_grouped.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_stacked.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_summed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_valid_ses.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/hist_valid_ses_y.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/japanese.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/labelled_heatmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legend_inside.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legend_labels.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legend_outside.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legend_scroll.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legend_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legend_visibility.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legendgroup.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/legendgroup_bar-stack.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/line_grid_color.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/line_grid_width.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/line_scatter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/line_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/multiple_axes_double.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/multiple_axes_multiple.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/multiple_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/percent_error_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_fonts.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_label0_dlabel.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_labels_colors_text.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_scale_textpos_hideslices.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_simple.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_sort_direction.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_style.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pie_style_arrays.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/plot_types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/polar_area_chart.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/polar_line.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/polar_scatter.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/pseudo_html.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/scatter-colorscale-colorbar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/scatter-marker-line-colorscales.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/scatter_fill_no_opacity.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/shapes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/shared_axes_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/show_legend.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/simple_annotation.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/simple_contour.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/simple_inset.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/simple_subplot.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/size_margins.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/stacked_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/stacked_coupled_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/stacked_subplots.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/stacked_subplots_shared_yaxis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/style_bar.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/styling_names.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/text_chart_arrays.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/text_chart_basic.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/text_chart_invalid-arrays.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/text_chart_single-string.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/text_chart_styling.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/text_export.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/tick_attributes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/tick_prefix_suffix.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/tick_prefix_suffix_exponent.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/tickformat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/image/mocks/titles-avoid-labels.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/create_graph_div.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/custom_matchers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/destroy_graph_div.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/get_bbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/jquery-1.8.3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/modebar_button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/assets/mouse_event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/bundle_tests/bar_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/bundle_tests/choropleth_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/bundle_tests/contour_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/bundle_tests/core_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/bundle_tests/histogram2dcontour_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/karma.ciconf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/axes_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/bar_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/box_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/calcdata_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/choropleth_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/click_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/color_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/colorbar_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/colorscale_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/config_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/contour_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/events_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/extend_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/fx_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/geo_interact_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/geoaxes_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/geolayout_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/gl3daxes_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/gl3dlayout_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/gl_plot_interact_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/heatmap_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/histogram_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/hover_label_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/hover_pie_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/is_plain_object_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/legend_scroll_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/legend_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/lib_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/modebar_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/plot_api_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/plot_interact_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/plot_promise_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/plots_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/plotschema_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/polygon_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/register_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/scatter_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/scattergeo_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/search_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/select_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/snapshot_clone_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/surface_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/jasmine/tests/svg_text_utils_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/test/syntax_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skull_gap.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/skull_gap2.stl" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0001.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0002.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0003.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0004.dcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_name.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LOOKHERE.txt" afterPath="$PROJECT_DIR$/LOOKHERE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first.py" afterPath="$PROJECT_DIR$/first.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/second.py" afterPath="$PROJECT_DIR$/second.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stl_viewer.py" afterPath="$PROJECT_DIR$/stl_viewer.py" />
     </list>
     <ignored path="test.iws" />
@@ -20,9 +1425,10 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/test$first.coverage" NAME="first Coverage Results" MODIFIED="1459410715669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$second.coverage" NAME="second Coverage Results" MODIFIED="1459408426628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$stl_viewer.coverage" NAME="stl_viewer Coverage Results" MODIFIED="1459491912160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$third.coverage" NAME="third Coverage Results" MODIFIED="1459511302168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$first.coverage" NAME="first Coverage Results" MODIFIED="1459495922685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$second.coverage" NAME="second Coverage Results" MODIFIED="1459495154643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$stl_viewer.coverage" NAME="stl_viewer Coverage Results" MODIFIED="1459493630093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -37,17 +1443,17 @@
         <entry file="file://$PROJECT_DIR$/first.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
+              <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stl_viewer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stl_viewer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stl_viewer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45033112">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -59,8 +1465,22 @@
         <entry file="file://$PROJECT_DIR$/second.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
+              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#17#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="third.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/third.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4746137">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,9 +1500,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/stl_viewer.py" />
         <option value="$PROJECT_DIR$/second.py" />
         <option value="$PROJECT_DIR$/first.py" />
-        <option value="$PROJECT_DIR$/stl_viewer.py" />
+        <option value="$PROJECT_DIR$/third.py" />
       </list>
     </option>
   </component>
@@ -92,7 +1513,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
+    <option name="width" value="865" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -163,7 +1584,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="C:\Windows\node.exe" />
   </component>
-  <component name="RunManager" selected="Python.stl_viewer">
+  <component name="RunManager" selected="Python.third">
     <configuration default="false" name="first" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,6 +1641,24 @@
       <module name="test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stl_viewer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="third" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/third.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -417,16 +1856,18 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.first" />
       <item index="1" class="java.lang.String" itemvalue="Python.second" />
       <item index="2" class="java.lang.String" itemvalue="Python.stl_viewer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.third" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Python.stl_viewer" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.third" />
         <item index="1" class="java.lang.String" itemvalue="Python.first" />
         <item index="2" class="java.lang.String" itemvalue="Python.second" />
+        <item index="3" class="java.lang.String" itemvalue="Python.stl_viewer" />
       </list>
     </recent_temporary>
   </component>
@@ -444,10 +1885,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="865" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24596274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -509,7 +1950,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -525,7 +1968,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -536,28 +1981,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="121" column="43" selection-start-line="121" selection-start-column="43" selection-end-line="121" selection-end-column="43" />
+          <caret line="109" column="17" selection-start-line="109" selection-start-column="17" selection-end-line="109" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stl_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45033112">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4746137">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
