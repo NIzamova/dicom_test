@@ -45,24 +45,31 @@ def distance(x1, x2, y1, y2):
 contur_list = list()
 point_x = centerPoint.x
 point_y = centerPoint.y
-count_point =0
-radius=(distance(centerPoint.x, 192,  centerPoint.y, 277))*1.5
+count_point = 0
+radius = (distance(centerPoint.x, 192,  centerPoint.y, 277))
+radius_end = radius*1.5
+radius_begin = 1
 for alfa in xrange(0, 360):
-    count_point =0
-    for r in xrange(1, radius):
-        point_y= centerPoint.y+r*math.sin(math.radians(alfa))
-        point_x= centerPoint.x+r*math.cos(math.radians(alfa))
+    count_point = 0
+    for r in xrange(radius_begin, radius_end):
+        point_y = centerPoint.y+r*math.sin(math.radians(alfa))
+        point_x = centerPoint.x+r*math.cos(math.radians(alfa))
         for (x,y) in nonzero:
-              if ((x - point_x)==0 and (y - point_y)==0):
-                  contur_list.append([point_x,point_y])
-                  openfile = open('LOOKHERE.txt', 'w')
-                  openfile.write(str((contur_list)) + "\n")
-                  openfile.close()
+              if (abs(x - point_x)<=0.5 and abs((y - point_y))<=0.5):
+                  contur_list.append([point_x, point_y])
                   count_point= (count_point+1)
                   print ("in alfa = " +str(alfa)+" point found!!!!! count is " + str(count_point))
-    if count_point==0:
+    if count_point == 0:
         contur_list.append([alfa, alfa])
         print ("point not found!!!!! " + str(alfa))
+    else:
+        radius = distance(centerPoint.x, contur_list[-1][0], centerPoint.y, contur_list[-1][1])
+        radius_begin = (radius-(count_point*2+20))
+        radius_end = (radius+(count_point*2+20))
+
+    openfile = open('LOOKHERE.txt', 'w')
+    openfile.write(str((contur_list)) + "\n")
+    openfile.close()
     print alfa
 
 

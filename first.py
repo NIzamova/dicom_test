@@ -73,7 +73,7 @@ def vtk_show(renderer, width=400, height=300):
     return Image(data)
 
 
-PathDicom = "./lite/"
+PathDicom = "./test/"
 reader = vtk.vtkDICOMImageReader()
 reader.SetDirectoryName(PathDicom)
 reader.Update()
@@ -105,8 +105,8 @@ dmc = vtk.vtkDiscreteMarchingCubes()
 dmc.SetInputConnection(threshold.GetOutputPort())
 dmc.GenerateValues(1, 1, 1)
 dmc.Update()
-
-
+for i in xrange(130):
+    pyplot.imsave('./test_neg/neg-%d.png' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)
 print(ArrayDicom)
 #
 #
