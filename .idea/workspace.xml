@@ -2,267 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90a3885-b355-46d1-9369-f66db81364cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-101.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-102.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-104.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-106.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-107.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-108.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-109.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-110.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-111.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-112.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-113.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-115.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-116.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-117.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-118.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-119.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-121.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-122.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-123.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-124.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-125.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-126.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-127.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-129.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-46.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-49.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-56.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-61.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-63.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-66.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-67.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-68.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-69.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-71.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-73.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-74.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-75.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-77.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-78.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-82.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-83.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-84.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-85.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-86.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-88.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-89.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-93.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-94.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-95.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-97.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_neg/neg-99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-101.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-102.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-104.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-106.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-107.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-108.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-109.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-110.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-111.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-112.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-113.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-115.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-116.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-117.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-118.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-119.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-121.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-122.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-123.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-124.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-125.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-126.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-127.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-129.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-46.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-49.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-56.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-61.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-63.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-66.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-67.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-68.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-69.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-71.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-73.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-74.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-75.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-77.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-78.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-82.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-83.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-84.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-85.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-86.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-88.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-89.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-93.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-94.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-95.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-97.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_pos/pos-99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/find_close_conture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/haar_cascade.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bones.stl" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/jupyter.exe" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/plotlyjs/.ackrc" afterPath="" />
@@ -1667,10 +1407,17 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0003.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0004.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test_name.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-100.png" afterPath="$PROJECT_DIR$/test_pos/pos-100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-101.png" afterPath="$PROJECT_DIR$/test_pos/pos-101.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-102.png" afterPath="$PROJECT_DIR$/test_pos/pos-102.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-103.png" afterPath="$PROJECT_DIR$/test_pos/pos-103.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-104.png" afterPath="$PROJECT_DIR$/test_pos/pos-104.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-105.png" afterPath="$PROJECT_DIR$/test_pos/pos-105.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-106.png" afterPath="$PROJECT_DIR$/test_pos/pos-106.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-107.png" afterPath="$PROJECT_DIR$/test_pos/pos-107.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_pos/pos-108.png" afterPath="$PROJECT_DIR$/test_pos/pos-108.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LOOKHERE.txt" afterPath="$PROJECT_DIR$/LOOKHERE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first.py" afterPath="$PROJECT_DIR$/first.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/third.py" afterPath="$PROJECT_DIR$/third.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/find_close_conture.py" afterPath="$PROJECT_DIR$/find_close_conture.py" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1703,7 +1450,7 @@
         <entry file="file://$PROJECT_DIR$/first.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -1745,13 +1492,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find_close_conture.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="find_close_conture.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/find_close_conture.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5629139">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haar_cascade.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/haar_cascade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.46363637">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1777,6 +1536,7 @@
         <option value="$PROJECT_DIR$/third.py" />
         <option value="$PROJECT_DIR$/first.py" />
         <option value="$PROJECT_DIR$/find_close_conture.py" />
+        <option value="$PROJECT_DIR$/haar_cascade.py" />
       </list>
     </option>
   </component>
@@ -1814,7 +1574,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1858,6 +1617,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2195,26 +1955,26 @@
     <frame x="0" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22444445" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47026432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47026432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867842" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2235,6 +1995,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stl_viewer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_close_conture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2285,14 +2093,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="759" column="0" selection-start-line="759" selection-start-column="0" selection-end-line="759" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -2329,10 +2136,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/find_close_conture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5629139">
+        <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haar_cascade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46363637">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
