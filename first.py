@@ -16,6 +16,7 @@ import vtk
 import matplotlib
 from vtk.util import numpy_support
 from matplotlib import pyplot
+import third
 
 import numpy
 from stl import mesh
@@ -73,7 +74,7 @@ def vtk_show(renderer, width=400, height=300):
     return Image(data)
 
 
-PathDicom = "./test/"
+PathDicom = "./COU/"
 reader = vtk.vtkDICOMImageReader()
 reader.SetDirectoryName(PathDicom)
 reader.Update()
@@ -98,6 +99,7 @@ threshold.SetOutValue(1)  # set all values above 400 to 1
 threshold.Update()
 
 ArrayDicom = vtkImageToNumPy(threshold.GetOutput(), ConstPixelDims)
+# print type(ArrayDicom)
 plotHeatmap(numpy.rot90(ArrayDicom[:, :, 0]), name="CT_Thresholded")
 
 # print(time())
@@ -105,8 +107,17 @@ dmc = vtk.vtkDiscreteMarchingCubes()
 dmc.SetInputConnection(threshold.GetOutputPort())
 dmc.GenerateValues(1, 1, 1)
 dmc.Update()
-for i in xrange(130):
-    pyplot.imsave('./test_neg/neg-%d.png' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)
+i=0
+for i in xrange(361):
+    third.start_ray(pyplot.imshow ('./COU/neg-%d.png' %i, ArrayDicom[:,:,i]), i)
+    # nonzero = numpy.transpose(numpy.nonzero(ArrayDicom[:,:,i]))
+    # for (x,y) in nonzero:
+    #     print x, y
+     # pyplot.set_cmap(pyplot.cm.bone)
+     # pyplot.imshow ('./COU/neg-%d.png' %i, ArrayDicom[:,:,i])
+     # pyplot.show()
+
+    # pyplot.imsave('./COU_img/im-%d.png' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)
 print(ArrayDicom)
 #
 #
