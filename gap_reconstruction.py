@@ -42,7 +42,7 @@ def gap_reconstruction_func(img):
                 if alfa==0:
                     count_point_previous = 1
                 if count_point_previous == 0:
-                    if len(gap_angle_list)==0 or abs(gap_angle_list[-1][0] - (alfa)) > 3:
+                    if len(gap_angle_list)==0 or abs(gap_angle_list[-1][0] - (alfa)) > 1:
                         gap_angle_list.append([alfa, str("gap end")])
 
                 count_point = (count_point+1)
@@ -52,7 +52,7 @@ def gap_reconstruction_func(img):
 
         if count_point == 0:
             if count_point_previous!=0 and alfa!=0:
-                if len(gap_angle_list)==0 or abs(gap_angle_list[-1][0] - (alfa-1)) > 3:
+                if len(gap_angle_list)==0 or abs(gap_angle_list[-1][0] - (alfa-1)) > 1:
                     gap_angle_list.append([alfa-1, str("gap begin")])
                 count_point_previous=0
         count_point = 0

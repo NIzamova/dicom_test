@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b90a3885-b355-46d1-9369-f66db81364cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_working_with_image.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-0.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-0.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-1.jpg" afterPath="" />
@@ -2152,29 +2153,8 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0003.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0004.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test_name.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-70.jpg" afterPath="$PROJECT_DIR$/COU_img/im-70.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-71.jpg" afterPath="$PROJECT_DIR$/COU_img/im-71.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-72.jpg" afterPath="$PROJECT_DIR$/COU_img/im-72.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-73.jpg" afterPath="$PROJECT_DIR$/COU_img/im-73.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-74.jpg" afterPath="$PROJECT_DIR$/COU_img/im-74.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-75.jpg" afterPath="$PROJECT_DIR$/COU_img/im-75.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-76.jpg" afterPath="$PROJECT_DIR$/COU_img/im-76.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-77.jpg" afterPath="$PROJECT_DIR$/COU_img/im-77.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-78.jpg" afterPath="$PROJECT_DIR$/COU_img/im-78.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-79.jpg" afterPath="$PROJECT_DIR$/COU_img/im-79.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-80.jpg" afterPath="$PROJECT_DIR$/COU_img/im-80.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-81.jpg" afterPath="$PROJECT_DIR$/COU_img/im-81.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-82.jpg" afterPath="$PROJECT_DIR$/COU_img/im-82.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-83.jpg" afterPath="$PROJECT_DIR$/COU_img/im-83.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-84.jpg" afterPath="$PROJECT_DIR$/COU_img/im-84.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-85.jpg" afterPath="$PROJECT_DIR$/COU_img/im-85.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-86.jpg" afterPath="$PROJECT_DIR$/COU_img/im-86.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-87.jpg" afterPath="$PROJECT_DIR$/COU_img/im-87.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-88.jpg" afterPath="$PROJECT_DIR$/COU_img/im-88.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_img/im-89.jpg" afterPath="$PROJECT_DIR$/COU_img/im-89.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gap_reconstruction.py" afterPath="$PROJECT_DIR$/gap_reconstruction.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2194,6 +2174,7 @@
     <SUITE FILE_PATH="coverage/test$gap_reconstruction.coverage" NAME="gap_reconstruction Coverage Results" MODIFIED="1461330179143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$second.coverage" NAME="second Coverage Results" MODIFIED="1459495154643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$stl_viewer.coverage" NAME="stl_viewer Coverage Results" MODIFIED="1459493630093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$main_working_with_image.coverage" NAME="main_working_with_image Coverage Results" MODIFIED="1461336730522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$main.coverage" NAME="main Coverage Results" MODIFIED="1461333954519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -2208,8 +2189,8 @@
       <file leaf-file-name="gap_reconstruction.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.206897">
-              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+            <state vertical-scroll-proportion="-8.793103">
+              <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -2217,13 +2198,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37956205">
-              <caret line="114" column="68" selection-start-line="114" selection-start-column="68" selection-end-line="114" selection-end-column="68" />
+            <state vertical-scroll-proportion="-62.13793">
+              <caret line="106" column="77" selection-start-line="106" selection-start-column="3" selection-end-line="106" selection-end-column="77" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main_working_with_image.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.45909092">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2250,8 +2243,9 @@
         <option value="$PROJECT_DIR$/haar_cascade.py" />
         <option value="$PROJECT_DIR$/first.py" />
         <option value="$PROJECT_DIR$/third.py" />
-        <option value="$PROJECT_DIR$/gap_reconstruction.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/gap_reconstruction.py" />
+        <option value="$PROJECT_DIR$/main_working_with_image.py" />
       </list>
     </option>
   </component>
@@ -2307,6 +2301,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dicom_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project_cv2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -2340,7 +2348,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="911" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main_working_with_image">
     <configuration default="false" name="first" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2381,24 +2389,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="find_close_conture" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="test" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_close_conture.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="gap_reconstruction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -2431,6 +2421,24 @@
       <module name="test" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main_working_with_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="test" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_working_with_image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -2654,17 +2662,17 @@
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.first" />
       <item index="1" class="java.lang.String" itemvalue="Python.third" />
-      <item index="2" class="java.lang.String" itemvalue="Python.find_close_conture" />
-      <item index="3" class="java.lang.String" itemvalue="Python.gap_reconstruction" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.gap_reconstruction" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main_working_with_image" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.gap_reconstruction" />
-        <item index="2" class="java.lang.String" itemvalue="Python.third" />
-        <item index="3" class="java.lang.String" itemvalue="Python.first" />
-        <item index="4" class="java.lang.String" itemvalue="Python.find_close_conture" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main_working_with_image" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.gap_reconstruction" />
+        <item index="3" class="java.lang.String" itemvalue="Python.third" />
+        <item index="4" class="java.lang.String" itemvalue="Python.first" />
       </list>
     </recent_temporary>
   </component>
@@ -2689,6 +2697,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48514852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2703,7 +2712,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2765,13 +2773,6 @@
     <entry file="file://$PROJECT_DIR$/test_pos/pos-110.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stl_viewer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_pos/pos-101.png">
@@ -2883,16 +2884,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7763158">
-          <caret line="205" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pos_jpg/pos-100.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -2934,6 +2925,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stl_viewer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38636363">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2942,22 +2941,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+    <entry file="file://$PROJECT_DIR$/project_cv2/find_closed_conture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.206897">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_cv2/collage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_cv2/create_training_dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_cv2/machine_learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7681818">
+          <caret line="25" column="23" selection-start-line="5" selection-start-column="0" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20924574">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="117" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37956205">
-          <caret line="114" column="68" selection-start-line="114" selection-start-column="68" selection-end-line="114" selection-end-column="68" />
+        <state vertical-scroll-proportion="-62.13793">
+          <caret line="106" column="77" selection-start-line="106" selection-start-column="3" selection-end-line="106" selection-end-column="77" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.793103">
+          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45909092">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
