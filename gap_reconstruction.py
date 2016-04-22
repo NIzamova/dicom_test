@@ -10,8 +10,8 @@ import numpy.polynomial.polynomial as poly
 
 
 def gap_reconstruction_func(img):
-    # a = cv2.imread(img, 0)
-    a = img
+    a = cv2.imread(img, 0)
+    # a = img
     nonzero = numpy.transpose(numpy.nonzero(a))
 
     centerPoint=ndimage.measurements.center_of_mass(a)
@@ -103,7 +103,9 @@ def gap_reconstruction_func(img):
         x_new = numpy.arange(min(aa), max(aa), 1)
         coefs = poly.polyfit(standart_y, standart_x, 3)
         ffit = poly.polyval(x_new, coefs)
-        result=[pyplot.plot(ffit, x_new, '-b')]
+        [pyplot.plot(ffit, x_new, '-b')]
+        result=[ffit.astype(int), x_new.astype(int)]
+
 
 
     else:
@@ -111,7 +113,8 @@ def gap_reconstruction_func(img):
         x_new = numpy.arange(min(aa), max(aa), 1)
         coefs = poly.polyfit(standart_x, standart_y, 3)
         ffit = poly.polyval(x_new, coefs)
-        result=[pyplot.plot(x_new, ffit, '-b')]
+        [pyplot.plot(x_new, ffit, '-b')]
+        result=[x_new.astype(int), ffit.astype(int)]
 
     #
     # xxx = numpy.asarray([x for x, y in nonzero])
@@ -122,8 +125,9 @@ def gap_reconstruction_func(img):
     # pyplot.plot(centerPoint.x, centerPoint.y, 'x')
 
 
+    print result
 
-    pyplot.show()
+    # pyplot.show()
     return result
 
 
