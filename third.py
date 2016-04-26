@@ -28,6 +28,126 @@ Path = "./pos_jpg/pos-100.jpg"
 
 # a=(ds.pixel_array>2000)
 
+"""
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+
+from skimage import data
+from skimage.filters import threshold_otsu
+from skimage.segmentation import clear_border
+from skimage.measure import label
+from skimage.morphology import closing, square
+from skimage.measure import regionprops
+from skimage.color import label2rgb
+import skimage
+
+
+
+def gap_reconstruction_func(img):
+    a = cv2.imread(img, 0)
+    output = a.copy()
+    kernel = numpy.ones((5,5),numpy.uint8)
+    # opening = cv2.morphologyEx(img, cv2.MORPH_OPEN, kernel)
+    a = cv2.morphologyEx(a, cv2.MORPH_CLOSE, kernel)
+
+    # cv2.getStructuringElement(cv2.MORPH_ELLIPSE,(200,200))
+
+
+    a_canny=cv2.Canny(a, 100, 200)
+
+
+    ret,thresh = cv2.threshold(a_canny,127,255,0)
+    im2, contours, hierarchy = cv2.findContours(thresh,cv2.RETR_TREE ,cv2.CHAIN_APPROX_SIMPLE)
+    cnt = contours[0]
+    # print cnt
+    (x,y),radius = cv2.minEnclosingCircle(cnt)
+    center = (int(x),int(y))
+    radius = int(radius)
+    cv2.circle(a_canny,center,radius,(85),2)
+    cv2.imshow('ss', a_canny)
+    cv2.waitKey(0)
+
+    area = cv2.contourArea(cnt)
+    perimeter = cv2.arcLength(cnt,True)
+    metric = 4*math.pi*area/perimeter**2
+    print metric
+
+
+
+
+
+
+
+
+
+    # apply threshold
+    # thresh = threshold_otsu(a)
+    # bw = closing(a > thresh, square(3))
+    #
+    # # remove artifacts connected to image border
+    # cleared = bw.copy()
+    # clear_border(cleared)
+    #
+    # # label image regions
+    # label_image = label(cleared)
+    # borders = np.logical_xor(bw, cleared)
+    # label_image[borders] = -1
+    # image_label_overlay = label2rgb(label_image, image=a)
+    #
+    # fig, ax = plt.subplots(ncols=1, nrows=1, figsize=(6, 6))
+    # ax.imshow(image_label_overlay)
+
+
+    # circles = cv2.HoughCircles(im2, cv2.HOUGH_GRADIENT,1,20,param1=50,param2=30,minRadius=0,maxRadius=0)
+    # # print(circles)
+    # if circles is not None:
+    #     circles = numpy.round(circles[0, :]).astype("int")
+    #     for (x, y, r) in circles:
+    #         cv2.circle(output, (x, y), r, (0, 255, 0), 4)
+    #         cv2.rectangle(output, (x - 5, y - 5), (x + 5, y + 5), (0, 128, 255), -1)
+    #     cv2.imshow("output", numpy.hstack([img, output]))
+    #     cv2.waitKey(0)
+
+
+    # print numpy.transpose(numpy.nonzero(a_canny))
+    # if len(hierarchy)==1:
+    #     for x, y in numpy.transpose(numpy.nonzero(a_canny)):
+    #         for xx, yy in numpy.transpose(numpy.nonzero(a_canny)):
+
+
+
+    # a= ndimage.binary_erosion(a, structure=numpy.ones((3,2))).astype(a.dtype)
+    # a = img
+    # a=a_canny
+    nonzero = numpy.transpose(numpy.nonzero(a))
+
+    centerPoint=ndimage.measurements.center_of_mass(a)
+    centerPoint=Point(int(centerPoint[0]), int(centerPoint[1]))
+    print(centerPoint)
+    print  numpy.nonzero(a)
+
+
+
+    contour_list_inner = list()
+    contour_list_outer = list()
+    gap_borderline_list = list()
+    gap_angle_list = list()
+    count_point = 0
+    radius_begin = 1
+    count_point_previous = 0
+
+    # TODO for 45, 135, 225, 315 degrees theirself alfa
+
+
+
+
+
+
+
+"""
 
 # pyplot.imsave('current_test.png', a, cmap=pylab.cm.bone)
 

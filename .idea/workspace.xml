@@ -1,713 +1,368 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/third.py" line="67" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="b90a3885-b355-46d1-9369-f66db81364cd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main_working_with_image.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-0.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-1.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-10.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-100.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-101.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-102.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-102.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-103.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-103.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-104.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-104.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-105.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-105.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-106.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-106.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-107.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-107.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-108.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-108.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-109.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-109.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-11.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-110.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-110.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-111.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-111.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-112.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-113.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-113.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-114.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-114.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-115.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-115.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-116.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-116.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-117.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-117.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-118.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-119.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-119.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-12.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-120.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-120.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-121.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-122.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-122.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-123.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-123.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-124.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-124.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-125.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-125.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-126.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-126.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-127.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-127.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-128.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-129.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-129.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-13.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-130.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-130.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-131.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-131.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-132.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-132.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-133.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-133.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-134.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-134.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-135.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-135.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-136.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-136.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-137.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-137.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-138.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-138.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-139.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-139.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-14.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-140.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-140.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-141.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-141.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-142.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-142.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-143.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-143.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-144.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-144.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-145.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-145.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-146.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-146.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-147.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-147.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-148.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-148.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-149.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-149.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-15.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-150.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-151.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-151.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-152.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-152.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-153.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-153.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-154.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-154.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-155.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-155.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-156.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-156.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-157.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-157.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-158.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-158.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-159.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-159.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-16.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-160.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-161.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-161.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-162.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-162.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-163.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-163.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-164.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-164.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-165.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-165.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-166.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-166.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-167.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-167.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-168.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-169.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-169.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-17.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-170.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-170.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-171.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-171.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-172.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-172.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-173.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-173.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-174.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-174.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-175.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-175.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-176.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-176.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-177.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-177.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-178.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-178.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-179.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-179.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-18.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-180.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-180.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-181.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-181.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-182.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-182.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-183.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-183.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-184.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-184.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-185.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-185.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-186.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-186.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-187.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-187.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-188.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-188.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-189.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-189.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-19.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-190.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-190.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-191.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-191.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-192.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-192.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-193.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-193.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-194.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-194.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-195.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-195.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-196.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-196.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-197.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-197.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-198.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-198.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-199.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-199.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-2.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-20.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-200.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-201.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-202.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-202.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-203.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-204.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-204.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-205.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-205.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-206.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-206.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-207.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-207.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-208.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-208.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-209.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-209.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-21.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-210.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-210.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-211.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-211.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-212.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-212.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-213.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-213.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-214.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-214.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-215.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-215.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-216.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-216.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-217.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-217.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-218.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-218.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-219.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-219.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-22.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-220.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-220.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-221.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-221.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-222.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-222.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-223.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-223.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-224.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-224.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-225.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-225.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-226.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-226.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-227.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-227.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-228.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-228.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-229.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-229.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-23.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-230.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-230.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-231.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-231.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-232.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-232.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-233.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-233.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-234.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-234.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-235.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-235.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-236.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-236.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-237.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-237.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-238.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-238.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-239.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-239.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-24.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-240.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-240.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-241.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-241.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-242.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-242.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-243.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-243.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-244.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-244.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-245.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-245.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-246.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-246.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-247.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-247.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-248.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-248.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-249.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-249.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-25.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-250.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-250.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-251.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-251.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-252.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-252.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-253.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-253.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-254.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-254.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-255.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-255.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-256.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-256.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-257.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-257.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-258.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-258.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-259.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-259.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-26.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-260.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-260.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-261.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-261.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-262.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-262.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-263.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-263.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-264.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-264.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-265.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-265.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-266.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-266.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-267.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-267.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-268.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-268.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-269.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-269.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-27.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-270.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-270.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-271.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-271.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-272.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-272.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-273.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-273.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-274.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-274.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-275.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-275.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-276.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-276.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-277.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-277.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-278.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-278.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-279.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-279.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-28.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-280.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-280.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-281.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-281.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-282.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-282.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-283.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-283.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-284.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-284.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-285.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-285.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-286.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-286.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-287.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-287.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-288.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-288.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-289.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-289.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-29.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-290.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-290.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-291.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-291.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-292.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-292.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-293.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-293.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-294.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-294.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-295.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-295.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-296.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-296.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-297.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-297.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-298.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-298.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-299.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-299.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-3.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-30.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-300.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-301.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-301.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-302.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-302.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-303.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-303.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-304.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-304.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-305.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-305.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-306.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-306.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-307.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-307.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-308.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-308.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-309.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-309.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-31.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-310.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-310.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-311.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-311.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-312.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-312.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-313.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-313.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-314.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-314.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-315.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-315.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-316.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-316.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-317.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-317.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-318.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-318.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-319.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-319.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-32.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-320.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-320.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-321.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-321.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-322.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-322.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-323.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-323.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-324.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-324.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-325.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-325.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-326.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-326.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-327.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-327.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-328.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-328.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-329.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-329.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-33.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-330.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-330.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-331.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-331.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-332.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-332.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-333.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-333.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-334.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-334.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-335.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-335.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-336.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-336.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-337.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-337.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-338.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-338.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-339.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-339.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-34.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-340.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-340.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-341.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-341.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-342.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-342.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-343.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-343.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-344.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-344.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-345.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-345.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-346.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-346.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-347.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-347.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-348.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-348.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-349.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-349.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-35.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-350.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-350.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-351.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-351.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-352.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-352.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-353.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-353.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-354.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-354.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-355.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-355.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-356.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-356.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-357.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-357.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-358.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-358.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-359.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-359.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-36.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-360.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-360.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-37.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-38.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-39.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-4.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-40.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-41.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-42.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-43.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-44.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-45.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-46.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-47.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-48.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-49.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-5.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-50.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-51.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-52.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-53.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-54.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-55.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-56.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-57.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-57.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-58.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-59.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-6.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-60.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-61.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-62.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-63.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-64.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-64.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-65.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-65.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-66.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-67.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-67.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-68.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-69.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-69.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-72.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-75.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-76.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-78.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-70.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-72.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-73.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-75.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-76.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-79.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-80.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-89.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-80.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-81.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-82.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-85.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-86.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-88.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-89.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-9.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-90.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-91.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-91.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-92.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-92.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-93.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-93.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-94.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-94.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-95.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-95.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-96.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-96.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-97.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-97.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-98.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-98.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-99.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-99.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/bones.stl" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/find_close_conture.py" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/haar_cascade.py" afterPath="" />
@@ -2153,8 +1808,12 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0003.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0004.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test_name.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_GAP/im-76.jpg" afterPath="$PROJECT_DIR$/COU_GAP/im-76.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first.py" afterPath="$PROJECT_DIR$/first.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gap_reconstruction.py" afterPath="$PROJECT_DIR$/gap_reconstruction.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_working_with_image.py" afterPath="$PROJECT_DIR$/main_working_with_image.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/third.py" afterPath="$PROJECT_DIR$/third.py" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2170,11 +1829,11 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/test$third.coverage" NAME="third Coverage Results" MODIFIED="1461250379716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$find_close_conture.coverage" NAME="find_close_conture Coverage Results" MODIFIED="1460029927869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$first.coverage" NAME="first Coverage Results" MODIFIED="1461148969374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$gap_reconstruction.coverage" NAME="gap_reconstruction Coverage Results" MODIFIED="1461330179143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$first.coverage" NAME="first Coverage Results" MODIFIED="1461595121238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$gap_reconstruction.coverage" NAME="gap_reconstruction Coverage Results" MODIFIED="1461582578543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$second.coverage" NAME="second Coverage Results" MODIFIED="1459495154643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$stl_viewer.coverage" NAME="stl_viewer Coverage Results" MODIFIED="1459493630093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$main_working_with_image.coverage" NAME="main_working_with_image Coverage Results" MODIFIED="1461336730522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$main_working_with_image.coverage" NAME="main_working_with_image Coverage Results" MODIFIED="1461661402758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$main.coverage" NAME="main Coverage Results" MODIFIED="1461333954519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -2186,11 +1845,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gap_reconstruction.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="second.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/second.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gap_reconstruction.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.793103">
-              <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
+            <state vertical-scroll-proportion="0.48034933">
+              <caret line="170" column="47" selection-start-line="170" selection-start-column="47" selection-end-line="170" selection-end-column="47" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -2198,27 +1867,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+      <file leaf-file-name="main_working_with_image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-62.13793">
-              <caret line="106" column="77" selection-start-line="106" selection-start-column="3" selection-end-line="106" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_working_with_image.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45909092">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
+      <file leaf-file-name="im-71.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/COU_GAP/im-71.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -2241,11 +1905,11 @@
         <option value="$PROJECT_DIR$/second.py" />
         <option value="$PROJECT_DIR$/find_close_conture.py" />
         <option value="$PROJECT_DIR$/haar_cascade.py" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/first.py" />
         <option value="$PROJECT_DIR$/third.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/gap_reconstruction.py" />
         <option value="$PROJECT_DIR$/main_working_with_image.py" />
+        <option value="$PROJECT_DIR$/gap_reconstruction.py" />
       </list>
     </option>
   </component>
@@ -2255,7 +1919,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1217" />
+    <option name="width" value="1013" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -2301,20 +1965,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dicom_test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_cv2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -2347,6 +1997,11 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="911" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\study\dicom_test\COU_GAP" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.main_working_with_image">
     <configuration default="false" name="first" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -2669,10 +2324,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.main_working_with_image" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.first" />
         <item index="2" class="java.lang.String" itemvalue="Python.gap_reconstruction" />
-        <item index="3" class="java.lang.String" itemvalue="Python.third" />
-        <item index="4" class="java.lang.String" itemvalue="Python.first" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.third" />
       </list>
     </recent_temporary>
   </component>
@@ -2690,17 +2345,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1217" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1013" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20743302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2518363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48514852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43344334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2728,33 +2383,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gap_reconstruction.py</url>
-          <line>102</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gap_reconstruction.py</url>
-          <line>113</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gap_reconstruction.py</url>
-          <line>72</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gap_reconstruction.py</url>
-          <line>96</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gap_reconstruction.py</url>
-          <line>97</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -2765,7 +2393,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="42" />
+      <option name="time" value="50" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2786,11 +2414,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_pos/pos-100.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-103.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -2864,27 +2487,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-115.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pos_jpg/pos-113.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-112.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pos_jpg/pos-109.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-100.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -2910,47 +2518,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-101.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.08181818">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding>
-            <element signature="e#17#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stl_viewer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38636363">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="82" selection-start-line="119" selection-start-column="65" selection-end-line="119" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project_cv2/find_closed_conture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#18#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_cv2/collage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2964,7 +2531,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="35" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2974,47 +2541,180 @@
         <state vertical-scroll-proportion="0.7681818">
           <caret line="25" column="23" selection-start-line="5" selection-start-column="0" selection-end-line="25" selection-end-column="23" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/third.py">
+    <entry file="file://$PROJECT_DIR$/stl_viewer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20924574">
-          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="117" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.38636363">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-101.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-106.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-103.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-112.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_img/im-72.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_img/im-71.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_img/im-70.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-102.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-62.13793">
-          <caret line="106" column="77" selection-start-line="106" selection-start-column="3" selection-end-line="106" selection-end-column="77" />
+        <state vertical-scroll-proportion="0.47939262">
+          <caret line="103" column="77" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="77" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+    <entry file="file://$PROJECT_DIR$/pos_jpg/im-80.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-115.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pos_jpg/pos-100.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_neg/neg-129.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_neg/neg-4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_neg/neg-40.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_neg/neg-45.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_cv2/find_closed_conture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.793103">
-          <caret line="54" column="86" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.8377823">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_GAP/im-90.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_GAP/im-89.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_GAP/im-71.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/COU_img/im-6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7453799">
+          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.3983574">
+          <caret line="141" column="55" selection-start-line="141" selection-start-column="55" selection-end-line="141" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda2/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33264887">
+          <caret line="2289" column="0" selection-start-line="2289" selection-start-column="0" selection-end-line="2289" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45909092">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48034933">
+          <caret line="170" column="47" selection-start-line="170" selection-start-column="47" selection-end-line="170" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>

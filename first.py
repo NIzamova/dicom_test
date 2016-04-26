@@ -1,19 +1,20 @@
 from time import time
 
 #from plotly.js import Heatmap as Heatmap
-from IPython.core.display import display
+from IPython.core.display import display, Image
 from plotly.offline import download_plotlyjs, init_notebook_mode, iplot
 from plotly.graph_objs import *
 import plotly
 
 init_notebook_mode()
-from IPython.display import Image
-__author__ = 'N'
+# from IPython.display import Image
+# __author__ = 'N'
 import dicom
 import os
 import numpy
 import vtk
 import matplotlib
+from plotly.offline import iplot
 from vtk.util import numpy_support
 from matplotlib import pyplot
 import third
@@ -50,7 +51,7 @@ def plotHeatmap(array, name="plot"):
     return iplot(fig)
 
 import vtk
-from IPython.display import Image
+# from IPython.display import Image
 def vtk_show(renderer, width=400, height=300):
     """
     Takes vtkRenderer instance and returns an IPython Image with the rendering.
@@ -100,16 +101,17 @@ threshold.Update()
 
 ArrayDicom = vtkImageToNumPy(threshold.GetOutput(), ConstPixelDims)
 # print type(ArrayDicom)
-plotHeatmap(numpy.rot90(ArrayDicom[:, :, 0]), name="CT_Thresholded")
+plotHeatmap(numpy.rot90(ArrayDicom[:, 0, :]), name="CT_Thresholded")
 
-# print(time())
+print(time())
 dmc = vtk.vtkDiscreteMarchingCubes()
 dmc.SetInputConnection(threshold.GetOutputPort())
 dmc.GenerateValues(1, 1, 1)
 dmc.Update()
 i=0
 for i in xrange(361):
-    third.start_ray(pyplot.imshow ('./COU/neg-%d.png' %i, ArrayDicom[:,:,i]), i)
+    # pyplot.imshow ('./COU/neg-%d.png' %i, ArrayDicom[:,:,i])
+    # third.start_ray(pyplot.imshow ('./COU/neg-%d.png' %i, ArrayDicom[:,:,i]), i)
     # nonzero = numpy.transpose(numpy.nonzero(ArrayDicom[:,:,i]))
     # for (x,y) in nonzero:
     #     print x, y
@@ -117,7 +119,7 @@ for i in xrange(361):
      # pyplot.imshow ('./COU/neg-%d.png' %i, ArrayDicom[:,:,i])
      # pyplot.show()
 
-    # pyplot.imsave('./COU_img/im-%d.png' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)
+    pyplot.imsave('./COU_img/im-%d.png' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)
 print(ArrayDicom)
 #
 #
