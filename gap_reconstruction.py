@@ -9,40 +9,40 @@ import numpy.polynomial.polynomial as poly
 
 
 
-def gap_reconstruction_func(img):
-    a = cv2.imread(img, 0)
-    kernel = numpy.ones((5,5),numpy.uint8)
-    a = cv2.morphologyEx(a, cv2.MORPH_CLOSE, kernel)
-
-#find contours
-    a_canny=cv2.Canny(a, 100, 200)
-
+def gap_reconstruction_func(img, a):
+#     a = cv2.imread(img, 0)
+#     kernel = numpy.ones((5,5),numpy.uint8)
+#     a = cv2.morphologyEx(a, cv2.MORPH_CLOSE, kernel)
 #
-    ret,thresh = cv2.threshold(a_canny,127,255,0)
-    im2, contours, hierarchy = cv2.findContours(thresh,cv2.RETR_TREE ,cv2.CHAIN_APPROX_SIMPLE)
-    cnt = contours[0]
-    # print cnt
-    (x,y),radius = cv2.minEnclosingCircle(cnt)
-    center = (int(x),int(y))
-    radius = int(radius)
-    cv2.circle(a_canny,center,radius,(85),2)
-    cv2.imshow('ss', a_canny)
-    cv2.waitKey(0)
-
-    print(center)
-    area = cv2.contourArea(cnt)
-    perimeter = cv2.arcLength(cnt,True)
-    metric = 4*math.pi*area/perimeter**2
-    print metric
-
-    if metric<0.8:
+# #find contours
+#     a_canny=cv2.Canny(a, 100, 200)
+#
+# #
+#     ret,thresh = cv2.threshold(a_canny,127,255,0)
+#     im2, contours, hierarchy = cv2.findContours(thresh,cv2.RETR_TREE ,cv2.CHAIN_APPROX_SIMPLE)
+#     cnt = contours[0]
+#     # print cnt
+#     (x,y),radius = cv2.minEnclosingCircle(cnt)
+#     center = (int(x),int(y))
+#     radius = int(radius)
+#     cv2.circle(a_canny,center,radius,(85),2)
+#     cv2.imshow('ss', a_canny)
+#     cv2.waitKey(0)
+#
+#     print(center)
+#     area = cv2.contourArea(cnt)
+#     perimeter = cv2.arcLength(cnt,True)
+#     metric = 4*math.pi*area/perimeter**2
+#     print metric
+#
+#     if metric<0.8:
 
 
         centerPoint=ndimage.measurements.center_of_mass(a)
         centerPoint=Point(int(centerPoint[0]), int(centerPoint[1]))
         # centerPoint=Point(center[0], center[1])
         print(centerPoint)
-        print  numpy.nonzero(a)
+        print numpy.nonzero(a)
 
 
 
@@ -185,10 +185,8 @@ def gap_reconstruction_func(img):
         # print result
 
         pyplot.show()
-        return
-    else:
-        print str('NO GAP')
-        return
+        return inner[0], inner[1], outer[0], outer[1]
+
 
 # Path = "./pos_jpg/pos-102.jpg"
 # gap_reconstruction_func(Path)

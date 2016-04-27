@@ -7,16 +7,16 @@ from matplotlib import pyplot
 from matplotlib._image import Image
 from scipy import ndimage
 
-from gap_reconstruction import gap_reconstruction_func
+from find_gap import find_gap
 
 result = list()
 Path="./COU_GAP/"
 
-for i in xrange(70,90,1):
+for i in xrange(72,74,1):
     a= pyplot.imread("./COU_GAP/im-%d.jpg" %i)
     # print("./COU_GAP/im-%d.jpg" %i)
     # pyplot.imshow(a)
     # pyplot.show()
     # a= ndimage.binary_erosion(a, structure=numpy.ones((1,1))).astype(a.dtype)
-    result.append(gap_reconstruction_func("./COU_GAP/im-%d.jpg" %i))
+    result.append(find_gap("./COU_GAP/im-%d.jpg" %i))
 print result

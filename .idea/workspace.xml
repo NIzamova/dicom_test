@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b90a3885-b355-46d1-9369-f66db81364cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/find_gap.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-0.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/COU_img/im-10.jpg" afterPath="" />
@@ -1808,12 +1809,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0003.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test/IM-0001-0004.dcm" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/test_name.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/COU_GAP/im-76.jpg" afterPath="$PROJECT_DIR$/COU_GAP/im-76.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first.py" afterPath="$PROJECT_DIR$/first.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gap_reconstruction.py" afterPath="$PROJECT_DIR$/gap_reconstruction.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_working_with_image.py" afterPath="$PROJECT_DIR$/main_working_with_image.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/third.py" afterPath="$PROJECT_DIR$/third.py" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1833,7 +1831,7 @@
     <SUITE FILE_PATH="coverage/test$gap_reconstruction.coverage" NAME="gap_reconstruction Coverage Results" MODIFIED="1461582578543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$second.coverage" NAME="second Coverage Results" MODIFIED="1459495154643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$stl_viewer.coverage" NAME="stl_viewer Coverage Results" MODIFIED="1459493630093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/test$main_working_with_image.coverage" NAME="main_working_with_image Coverage Results" MODIFIED="1461661402758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test$main_working_with_image.coverage" NAME="main_working_with_image Coverage Results" MODIFIED="1461741354212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$main.coverage" NAME="main Coverage Results" MODIFIED="1461333954519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -1855,11 +1853,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gap_reconstruction.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+      <file leaf-file-name="find_gap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/find_gap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48034933">
-              <caret line="170" column="47" selection-start-line="170" selection-start-column="47" selection-end-line="170" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.7556468">
+              <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -1871,7 +1869,7 @@
         <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -1883,6 +1881,18 @@
         <entry file="file://$PROJECT_DIR$/COU_GAP/im-71.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gap_reconstruction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="187" column="44" selection-start-line="187" selection-start-column="44" selection-end-line="187" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
@@ -1910,6 +1920,7 @@
         <option value="$PROJECT_DIR$/third.py" />
         <option value="$PROJECT_DIR$/main_working_with_image.py" />
         <option value="$PROJECT_DIR$/gap_reconstruction.py" />
+        <option value="$PROJECT_DIR$/find_gap.py" />
       </list>
     </option>
   </component>
@@ -1919,7 +1930,7 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1013" />
+    <option name="width" value="1073" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -2345,10 +2356,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1013" height="1040" extended-state="0" />
+    <frame x="0" y="0" width="1073" height="1040" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2518363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23692004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2657,22 +2668,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/COU_GAP/im-71.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/COU_img/im-6.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/first.py">
@@ -2699,20 +2697,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/COU_GAP/im-71.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="187" column="44" selection-start-line="187" selection-start-column="44" selection-end-line="187" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_working_with_image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gap_reconstruction.py">
+    <entry file="file://$PROJECT_DIR$/find_gap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48034933">
-          <caret line="170" column="47" selection-start-line="170" selection-start-column="47" selection-end-line="170" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.7556468">
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
