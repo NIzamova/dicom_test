@@ -6,6 +6,7 @@ from plotly.offline import download_plotlyjs, init_notebook_mode, iplot
 from plotly.graph_objs import *
 import plotly
 
+
 init_notebook_mode()
 # from IPython.display import Image
 # __author__ = 'N'

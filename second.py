@@ -1,7 +1,12 @@
-__author__ = 'N'
+
+
+import matplotlib
+matplotlib.use('TkAgg')
 import numpy, dicom, os
 import pylab
+
 from matplotlib import pyplot, cm
+
 PathDicom = "./lite/"
 lstFilesDCM = []  # create an empty list
 for dirName, subdirList, fileList in os.walk(PathDicom):
@@ -31,13 +36,9 @@ for filenameDCM in lstFilesDCM:
     pyplot.figure(dpi=50)
 pyplot.axes().set_aspect('equal', 'datalim')
 pyplot.set_cmap(pyplot.gray())
-pyplot.pcolormesh(x, y, numpy.flipud(ArrayDicom[:, :, 0]))
-
-
-
-
+pyplot.pcolormesh(x, y, numpy.flipud(ArrayDicom[:, :, 0]), cmap='bone')
 pyplot.show()
-openfile = open('LOOKHERE.txt', 'w')
-for item in ArrayDicom:
-    openfile.write(str(item) + "\n")
-openfile.close()
+# openfile = open('LOOKHERE.txt', 'w')
+# for item in ArrayDicom:
+#     openfile.write(str(item) + "\n")
+# openfile.close()

@@ -92,10 +92,11 @@ i=0
 
 result = list()
 
-for i in xrange(77,80, 1):
+for i in xrange(0,360, 1):
 
-    pyplot.imsave ('./COU_img/im-%d.jpg' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)
-    a = cv2.imread('./COU_img/im-%d.jpg' %i, 0)
+    # pyplot.imsave ('./COU_img2/im-%d.jpg' %i, ArrayDicom[i,:,:], cmap=pyplot.cm.bone)
+    a = cv2.imread('./COU_GAP/im-%d.jpg' %i, 0)
+    a=cv2.threshold(a,180,255,cv2.THRESH_BINARY)
     struct2 = ndimage.generate_binary_structure(2, 2)
     # a= ndimage.binary_dilation(a, structure=struct2).astype(a.dtype)
     # a= ndimage.binary_dilation(a, structure=struct2).astype(a.dtype)
@@ -110,9 +111,9 @@ for i in xrange(77,80, 1):
 
     # a= ndimage.binary_erosion(a, structure=numpy.ones((1,1))).astype(a.dtype)
 
-    pyplot.imsave ('./COU_img/im-%d.jpg' %i, a , cmap=pyplot.cm.bone)
+    pyplot.imsave ('./COU_GAP/im-%d.jpg' %i, a , cmap=pyplot.cm.bone)
 
-    result.append(gap_reconstruction_func("./COU_img/im-%d.jpg" %i))
+    # result.append(gap_reconstruction_func("./COU_img/im-%d.jpg" %i))
 
 # for i in xrange(78,81,1):
 #     pyplot.imsave ('./COU_img/im-%d.jpg' %i, ArrayDicom[:,:,i], cmap=pyplot.cm.bone)

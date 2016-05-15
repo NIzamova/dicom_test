@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 from matplotlib import pyplot
 
-Path = "./test_validation/"
+Path = "./project_cv2/test_validation/"
 for dirname, dirnames, filenames in os.walk(Path):
     for filename in filenames:
         print filename
@@ -21,5 +21,5 @@ for dirname, dirnames, filenames in os.walk(Path):
         cv2.imshow('img', img)
         cv2.waitKey(0)
 
-        pyplot.imsave('./test_validation_result/%s.jpg' %filename, img, cmap=pyplot.cm.bone)
+        pyplot.imsave('./project_cv2/test_validation_result/%s.jpg' %filename, img, cmap=pyplot.cm.bone)
         print(img)
